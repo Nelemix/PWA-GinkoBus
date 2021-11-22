@@ -48,7 +48,7 @@
         "sizes": "32x32"
         },
         {
-        "src": "icons/maskable-icon.png",
+        "src": "icons/maskable_icon.png",
         "type": "image/png",
         "sizes": "274x274"
         }
